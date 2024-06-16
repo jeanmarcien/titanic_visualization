@@ -2,14 +2,6 @@
 
 This project visualizes the Titanic dataset using R and RMarkdown. The visualizations include a count plot, bar plot, violin plot, correlation heatmap, and facet grid. 
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Data Visualization](#data-visualization)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Install and load libraries
 
 First, we'll install and load the necessary libraries.
